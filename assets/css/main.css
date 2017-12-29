@@ -1167,9 +1167,9 @@
 		position: relative;
 		display: inline-block;
 		color: #ffffff;
-		width: 5em;
-		height: 5em;
-		line-height: 0.9em;
+		width: 1em;
+		height: 1em;
+		line-height: 3em;
 	}
 
 		#nav a.icon:before {
