@@ -1169,7 +1169,7 @@
 		color: #ffffff;
 		width: 1em;
 		height: 1em;
-		line-height: 0.1em;
+		line-height: 0.9em;
 	}
 
 		#nav a.icon:before {
@@ -1383,10 +1383,10 @@
 						position: absolute;
 						background: #222222;
 						color: #ffffff;
-						top: -2.75em;
+						top: 2.75em; /* Was neg */
 						font-size: 0.3em;
-						height: 2.25em;
-						line-height: 2.25em;
+						height: -2.25em; /* Was pos */
+						line-height: -2.25em; /* Was pos */
 						left: 50%;
 						opacity: 0;
 						-moz-transition: opacity .25s ease-in-out;
