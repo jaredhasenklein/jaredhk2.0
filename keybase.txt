@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jaredhk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jaredhk.me
+  * I am jaredhk (https://keybase.io/jaredhk) on keybase.
+  * I have a public key with fingerprint AA8E 1518 BF81 E152 DB77  B2E6 5B25 3BA1 FD33 8DE2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101664d4ab9818ef8515ac6b4ddbda2b91a37217df2d8ba16de8257249a458289110a",
+      "fingerprint": "aa8e1518bf81e152db77b2e65b253ba1fd338de2",
+      "host": "keybase.io",
+      "key_id": "5b253ba1fd338de2",
+      "kid": "0101664d4ab9818ef8515ac6b4ddbda2b91a37217df2d8ba16de8257249a458289110a",
+      "uid": "1ad511c3dba43dd38330fb402841a919",
+      "username": "jaredhk"
+    },
+    "service": {
+      "hostname": "jaredhk.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1514699377,
+  "expire_in": 157680000,
+  "prev": "5357795feb83d1a96ce6e9e0ed0bd9d86619aa4eef442b60a794237f62674054",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIbAnicrVJbSFRBGF7LFKVQvEElBUNiwWJnzv1sEgZdvPRQL1YqLTM7c/Ts6jnr
+7rp5QQ3UBx+ssLCnFEQIRSIlsaSwVAKVCnpSQkxRK+xGIqKmNEfqIeixeZn5f77v
+m+//+Mf27XbERhyIyxkcac5Oi5h8cbvCUZBdXV4DsEWqgKsG+OjORUsJDYbcPoMA
+F+AgB2VZJCLCmgpVqqsSlJBHxiIhmCAeaxAJCg8VovNExQjKhKq8pPCihkRJ5VUN
+Qg4BJ9ANs5gG/AHDDDFZhFQKJahiXYXswROsKJinsoR5SWAqOhEElVCeEUusoM1g
+5jAK0gzDYj1WuHfs/QP/n31X7MhBRCQIPQLBSBQIEVRB4HQscrwqQqRBzQYGacBE
+ZZShvShASYkP1DoBa4YND7VztQf5G5DBCifwB6yQ5bFKWb8kFPK7bFqoym/jrlHs
+/q3gxoZJWIaMEKaBoGGZwAUZ0hMybEkWpihrmqAoTkAr/UaAug0bISmyyrFjf0PD
+dmKCpCiapFOsCoR5lz1UphrlKOEw0Ygqy1BDSKRUF0UeyxxSNJEXFF3mZUXkJBHY
+M5WbFnDJzCYqZpJBo9hEoYoABbUjz4siHRGxjqg9u+zdcsTGxP/ZuIak6O2MxewP
+/T2OhsZtaa7nVPo7LaUUbCVf75wJV5JI6VO0N3W+rb3ly1QyKk2qbx7oNsHT+Ezc
+Cia+TcDJhZivdNJVPZq35U0anztcuDaxcmm0sPZBVVlCxZ3xK+jsyaHZqe6H85a4
+8rYp4bQ1kXvuyfG67BuVs0bK+fRH+WlHvXWrqbn7+7Ju3Vv8ccxx931V4nxC1/IZ
+X+va5udWc7I60VxvzVnz8UstG+0L/PQAqc8Shte/X+29eaKoE770LHvHzKah4stv
+Op5daOvavJ+3OdCY2RyxdNE4cmi8V1od7Hg98ypuo/Lx6seDe6Omm4b7+mvDw1Gw
+ZflnV0+BnN/zCxlZRC8=
+=Z7Yb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaredhk
+
+==================================================================
